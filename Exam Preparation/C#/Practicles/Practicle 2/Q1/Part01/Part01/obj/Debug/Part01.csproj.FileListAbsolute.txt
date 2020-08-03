@@ -1,0 +1,7 @@
+D:\PracticalAnswers\Part01\Part01\bin\Debug\Part01.exe.config
+D:\PracticalAnswers\Part01\Part01\bin\Debug\Part01.exe
+D:\PracticalAnswers\Part01\Part01\bin\Debug\Part01.pdb
+D:\PracticalAnswers\Part01\Part01\obj\Debug\Part01.csprojResolveAssemblyReference.cache
+D:\PracticalAnswers\Part01\Part01\obj\Debug\Part01.csproj.CoreCompileInputs.cache
+D:\PracticalAnswers\Part01\Part01\obj\Debug\Part01.exe
+D:\PracticalAnswers\Part01\Part01\obj\Debug\Part01.pdb
