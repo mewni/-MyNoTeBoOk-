@@ -1,0 +1,3 @@
+C:/Users/Mewni/CLionProjects/CA Assignment/cmake-build-debug/CMakeFiles/CA_Assignment.dir
+C:/Users/Mewni/CLionProjects/CA Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mewni/CLionProjects/CA Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
